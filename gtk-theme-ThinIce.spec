@@ -28,7 +28,7 @@ P³aski temat bez zbêdnych drobiazgów.
 %build
 rm -f missing
 %{__libtoolize}
-aclocal
+%{__aclocal}
 %{__autoconf}
 %{__automake}
 %configure
