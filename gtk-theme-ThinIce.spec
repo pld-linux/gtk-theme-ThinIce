@@ -13,7 +13,6 @@ BuildRequires:	gtk+-devel
 BuildRequires:	libtool
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-
 %description
 Flat theme without distracting stuff.
 
@@ -21,7 +20,7 @@ Flat theme without distracting stuff.
 P³aski motyw bez zbêdnych drobiazgów.
 
 %prep
-%setup  -q -n gtk-thinice-theme-%{version}
+%setup -q -n gtk-thinice-theme-%{version}
 
 %build
 rm -f missing
@@ -45,4 +44,4 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc AUTHORS NEWS README TODO
 %attr(755,root,root) %{_libdir}/gtk/themes/engines/*.so
-%{_datadir}/themes/ThinIce
+%{_datadir}/themes/ThinIce/gtk
