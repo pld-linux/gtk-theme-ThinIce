@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Themes/Gtk
 Source0:	ThinIce-1.2.x.tar.gz
+# Source0-md5:	f2b6e8f4c3ea3710e27a59195f2abc9a
 URL:		http://gtk.classic.themes.org/php/download.phtml?object=gtk.theme.934184517&rev=1.2.x
 BuildRequires:	autoconf
 BuildRequires:	automake
