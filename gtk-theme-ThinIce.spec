@@ -1,5 +1,5 @@
 Summary:	Flat theme without distracting stuff
-Summary(pl):	P³aski temat bez zbêdnych drobiazgów
+Summary(pl):	P³aski motyw bez zbêdnych drobiazgów
 Name:		gtk-theme-ThinIce
 Version:	1.0.4
 Release:	1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Flat theme without distracting stuff.
 
 %description -l pl
-P³aski temat bez zbêdnych drobiazgów.
+P³aski motyw bez zbêdnych drobiazgów.
 
 %prep
 %setup  -q -n gtk-thinice-theme-%{version}
