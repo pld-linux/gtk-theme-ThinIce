@@ -5,8 +5,6 @@ Version:	1.0.4
 Release:	1
 License:	GPL
 Group:		Themes/Gtk
-Group(de):	Themen/Gtk
-Group(pl):	Motywy/Gtk
 Source0:	ThinIce-1.2.x.tar.gz
 URL:		http://gtk.classic.themes.org/php/download.phtml?object=gtk.theme.934184517&rev=1.2.x
 BuildRequires:	autoconf
