@@ -40,12 +40,11 @@ rm -rf $RPM_BUILD_ROOT
 %{__make} install \
 	DESTDIR=$RPM_BUILD_ROOT
 
-gzip -9nf AUTHORS NEWS README TODO
-
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%doc AUTHORS NEWS README TODO
 %attr(755,root,root) %{_libdir}/gtk/themes/engines/*.so
 %{_datadir}/themes/ThinIce
