@@ -2,9 +2,9 @@ Summary:	Flat theme without distracting stuff
 Summary(pl):	P³aski motyw bez zbêdnych drobiazgów
 Name:		gtk-theme-ThinIce
 Version:	1.0.4
-Release:	1
+Release:	2
 License:	GPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 Source0:	ThinIce-1.2.x.tar.gz
 # Source0-md5:	f2b6e8f4c3ea3710e27a59195f2abc9a
 URL:		http://gtk.classic.themes.org/php/download.phtml?object=gtk.theme.934184517&rev=1.2.x
