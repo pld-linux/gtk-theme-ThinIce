@@ -1,5 +1,5 @@
 Summary:	Flat theme without distracting stuff
-Summary(pl.UTF-8):   Płaski motyw bez zbędnych drobiazgów
+Summary(pl.UTF-8):	Płaski motyw bez zbędnych drobiazgów
 Name:		gtk-theme-ThinIce
 Version:	1.0.4
 Release:	2
